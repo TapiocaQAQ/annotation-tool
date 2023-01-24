@@ -1,0 +1,10 @@
+TagID,Tag
+1,pour milk
+2,pour powder
+3,sieve powder
+4,unscrew the screw
+5,jack up the car
+6,remove the tire
+
+
+
