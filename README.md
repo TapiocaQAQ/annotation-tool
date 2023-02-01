@@ -37,7 +37,7 @@
 
 #### Frame Mode
 
-![](./images/FrameMode.jpeg)
+![](./images/FrameMode.png])
 
 > Operations
 
