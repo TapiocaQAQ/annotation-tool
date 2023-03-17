@@ -17,6 +17,7 @@ parser.add_option("-i", "--interval", dest="interval", default=5,
 
 ## init txt
 video_list = os.listdir(path='./input/source')
+
 # init video.txt
 f = open('./input/video.txt','w')
 f.write("URLID,URL\n")

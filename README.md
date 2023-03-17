@@ -16,7 +16,8 @@
 └── coin_annotation_tool.html (Click to label)
 ```
 
-
+> 2. If you want to use `"Video Mode"` please change the `video.txt `(URLID,`URL`).
+![](./images/load.png)
 ## Usage
 
 
